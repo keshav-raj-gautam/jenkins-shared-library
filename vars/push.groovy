@@ -7,3 +7,4 @@ def call(){
                         sudo docker push $DOCKERHUB_USER/notes-app:latest
                     '''
                 }
+}
